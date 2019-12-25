@@ -11,7 +11,7 @@ public class TestMain {
 		{
 			 System.out.println("Please Enter Your Name");
 			 String custName = br.readLine();
-			 System.out.println("Hello.. "+custName+" \nPlease enter your budget");
+			 System.out.println("Hello.. "+custName+" \nPlease enter your budgettttttt");
 			 double budget = Double.valueOf(br.readLine());
 			 boolean exitFlag = false;
 			  if(budget <= 100000) {
